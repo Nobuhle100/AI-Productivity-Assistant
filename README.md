@@ -1,2 +1,5 @@
 # AI-Productivity-Assistant
-AI-powered assistant to automate workplace tasks like email summarization and task planning.
+AI tool to automate workplace tasks.
+Features; Email summarizer, Meeting notes, Task planner.
+Tech; Python, OpenAI API
+Author; Nobuhle Mbele
